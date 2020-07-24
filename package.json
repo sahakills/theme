@@ -1,0 +1,22 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0",
+    "susy": "^3.0.5"
+  },
+  "devDependencies": {
+    "gulp-watch": "^5.0.1",
+    "node-normalize-scss": "^8.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
