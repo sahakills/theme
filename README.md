@@ -1,5 +1,5 @@
 Установка 
-npm install -g gulp
-npm install
-gulp compScss
-gulp watch
+npm install -g gulp<br>
+npm install<br>
+gulp compScss<br>
+gulp watch<br>
